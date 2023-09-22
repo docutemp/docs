@@ -1,6 +1,34 @@
 # docs.docutemp.com
 
+
+Chcielibyśmy zaproponować Państwu nasze innowacyjne rozwiązanie – DocuTemp. To narzędzie opracowane z myślą o ochronie prywatności i bezpieczeństwa działa na zasadzie szyfrowania i przechowywania dokumentów projektu w jednym dokumencie html. DocuTemp jest niezwykle pomocnym narzędziem do wymiany wszelkiego rodzaju danych w formie zaszyfrowanej oraz do realizacji usług w sposób asynchroniczny.
+
+### Możliwości DocuTemp:
+
+- Wymiana danych z księgowym, faktur, raportów, danych medycznych, pracowników bez obawy o ich utratę czy wyciek do osób niepowołanych
+- Podpisywanie i monitorowanie realizacji umów asynchronicznie, bez konieczności utrzymywania stałego połączenia
+- Archiwizacja danych, umożliwiająca bezpieczne przenoszenie między różnymi urządzeniami, np.: PC i USB
+- Możliwość korzystania z mniej bezpiecznych kanałów komunikacji wysyłając dane wrażliwe w postaci zaszyfrowanej
+
+### Jakie korzyści przyniesie Wam DocuTemp?
+
+- Dostęp do wszystkich dokumentów w jednym przenośnym pliku html, to większy porządek i łatwość w zarządzaniu danymi.
+- Pełna kontrola - wszystko jest w 100% w Państwa rękach - nie jest wymagany centralny serwer do przechowywania danych i haseł.
+- DocuTemp działaj na każdym systemie operacyjnym i przeglądarce, a edycja danych jest możliwa bezpośrednio w przeglądarce internetowej bez potrzeby instalowania zewnętrznych aplikacji.
+
+DocuTemp to przede wszystkim bezpieczeństwo - wszystko odbywa się po stronie przeglądarki w języku JavaScript, a dokumenty są przechowywane w formacie HTML, co gwarantuje niezależność od zewnętrznych aplikacji.
+
+W DocuTemp zapewniamy pełne bezpieczeństwo wymiany danych, archiwizacji dokumentów czy realizacji usług. Podejmujemy wszelkie działania, aby unikać ryzyka wycieku informacji - ograniczamy ryzyko do minimum, dzięki czemu można skupić się wyłącznie na realizacji swoich celów biznesowych.
+
+Za sprawą DocuTemp można realizować prace wymagające dostępu do wrażliwych danych w pełni zdalnie, bez obaw o wyciek danych, kompromitację, kary (RODO).
+
+Spośród wielu potencjalnych użyczeń naszego narzędzia, od bezpiecznej pracy zdalnej po delegowanie zadań monotematycznych czy wymianę dokumentów, DocuTemp to klucz do skutecznego, szyfrowanego i bezpiecznego zarządzania dokumentami w Państwa firmie.
+
+
+## Oferta
+
 ### Rozwiązanie:
+
 + szyfrowanie i przechowywanie dokumentów projektu w jednym dokumencie html
 
 
@@ -155,3 +183,7 @@ to znaczy, że można zaszyfrowany dokument upload-ować aby druga osoba po poda
 Skrytka w tym momencie zostaje usunięta z serwera.
 a dokument pozostaje u nadającego i odbierającego.
 Nikt inny nie ma dostępu, nawet po włamaniu na komputer w trakcie działania przeglądarki plik pozostaje zaszyfrowany, a hasło do otworzenia posiadają dwie strony kontraktu
+
+
+
+
