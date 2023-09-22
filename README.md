@@ -46,27 +46,27 @@ Dodatkowo, klient może zastanawiać się, czy firma spełnia wymogi prawne doty
 + dialog dwóch osób, w której jedna opowiada drugiej, jak istotne jest bezpieczeństwo
 
 
-Anna: Cześć Kamil, przy okazji ostatniej rozmowy, chciałam ci mówić o ochronie danych w naszej firmie.
+- **Anna**: Cześć Kamil, przy okazji ostatniej rozmowy, chciałam ci mówić o ochronie danych w naszej firmie.
 
-Kamil: Pewnie, Anna. Słucham.
+- **Kamil**: Pewnie, Anna. Słucham.
 
-Anna: Czy zdajesz sobie sprawę, jak istotne jest bezpieczeństwo danych, zwłaszcza tych wrażliwych czy poufnych, jak informacje o naszych klientach?
+- **Anna**: Czy zdajesz sobie sprawę, jak istotne jest bezpieczeństwo danych, zwłaszcza tych wrażliwych czy poufnych, jak informacje o naszych klientach?
 
-Kamil: No wiem, że to ważne, ale my używamy hasła i zabezpieczeń, prawda?
+- **Kamil**: No wiem, że to ważne, ale my używamy hasła i zabezpieczeń, prawda?
 
-Anna: Tak, ale to nie zawsze wystarcza. Hasło to tylko jedna warstwa ochrony. To, co jest naprawdę kluczowe teraz, to szyfrowanie danych. 
+- **Anna**: Tak, ale to nie zawsze wystarcza. Hasło to tylko jedna warstwa ochrony. To, co jest naprawdę kluczowe teraz, to szyfrowanie danych. 
 
-Kamil: Co to dokładnie oznacza?
+- **Kamil**: Co to dokładnie oznacza?
 
-Anna: Oznacza to, że informacje są zamieniane na kod, który można zrozumieć tylko posiadając odpowiedni klucz. Bez tego, dane są bezużyteczne dla kogoś, kto je przechwyci.
+- **Anna**: Oznacza to, że informacje są zamieniane na kod, który można zrozumieć tylko posiadając odpowiedni klucz. Bez tego, dane są bezużyteczne dla kogoś, kto je przechwyci.
 
-Kamil: Rozumiem. Ale to chyba nie jest aż tak ważne? W końcu, ile razy słyszałeś o firmach, które miały realne problemy z tym?
+- **Kamil**: Rozumiem. Ale to chyba nie jest aż tak ważne? W końcu, ile razy słyszałeś o firmach, które miały realne problemy z tym?
 
-Anna: Oj, naprawdę nie chciałbyś do tego dojść., Kamil. Wiesz, prywatność traci się tylko raz. Jeśli dojdzie do wycieku danych, szczególnie tych wrażliwych, konsekwencje mogą być katastrofalne. Strata reputacji, kary finansowe, utrata zaufania klientów.
+- **Anna**: Oj, naprawdę nie chciałbyś do tego dojść., Kamil. Wiesz, prywatność traci się tylko raz. Jeśli dojdzie do wycieku danych, szczególnie tych wrażliwych, konsekwencje mogą być katastrofalne. Strata reputacji, kary finansowe, utrata zaufania klientów.
 
-Kamil: Skoro tak mówisz, to brzmi poważnie. Zaczynam rozumieć, dlaczego tak podkreślasz to bezpieczeństwo.
+- **Kamil**: Skoro tak mówisz, to brzmi poważnie. Zaczynam rozumieć, dlaczego tak podkreślasz to bezpieczeństwo.
 
-Anna: Dokładnie, Kamil. Zawsze lepiej zapobiegać, niż leczyć. A gdy chodzi o bezpieczeństwo danych, nie ma czegoś takiego jak zbyt dużo ostrożności.
+- **Anna**: Dokładnie, Kamil. Zawsze lepiej zapobiegać, niż leczyć. A gdy chodzi o bezpieczeństwo danych, nie ma czegoś takiego jak zbyt dużo ostrożności.
 
 
 
