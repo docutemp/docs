@@ -142,6 +142,25 @@ w roku 2019 dane klientów Orange Polska, a konkretnie daty ważności ich umów
 Cyfrowa administracja dokumentami jaką proponuje DocuTemp mogłaby skutecznie zapobiec takiej sytuacji.
  
 
+#### Wyciek danych z pendrive'a:
+W 2014 roku zawierający dane osobowe 6 milionów obywateli Chile pendrive został zgubiony przez urzędnika rządowego. Informacje obejmowały m.in. nazwiska, numery identyfikacyjne oraz adresy e-mail osób. DocuTemp zabezpiecza dokumenty na każdym nośniku, umożliwia również przechowywanie w jednorazowym schowku online w zaszyfrowanych dokumentów w bezpiecznej infrastrukturze chmurze, co eliminuje potrzebę korzystania z nośników przenośnych, takich jak pendrivy, które mogą zostać zgubione lub skradzione.
+
+#### Wyciek danych z komunikatora WhatsApp: 
+W 2019 roku, Jeff Bezos, CEO Amazona, padł ofiarą ataku hackerskiego na komunikator WhatsApp, który doprowadził do kradzieży jego prywatnych danych. DocuTemp zapewnia kontrolę nad dostępem do dokumentów - można je udostępniać innym użytkownikom tylko w określonym zakresie, co ogranicza ryzyko ich wycieku.
+
+#### Wyciek danych z klienta poczty e-mail: 
+W 2013 roku, Yahoo ujawniło, że dane 3 miliardów użytkowników zostały skradzione w ataku na ich klienta poczty e-mail. DocuTemp zapewnia szyfrowanie danych po stronie klienta, co oznacza że nawet jeśli dane zostaną przechwycone, nie będą czytelne bez klucza.
+
+Szyfrowanie po stronie klienta DocuTemp oznacza, że dane są szyfrowane na urządzeniu użytkownika, zanim zostaną wysłane do chmury. To ogranicza ryzyko, że dane będą przechwycone i odczytane podczas transmisji. Ponadto, klucz do odszyfrowania danych jest przechowywany tylko na urządzeniu użytkownika, co daje dodatkową warstwę ochrony.
+
+
+
+
+
+
+
+
+
 
 ### Realizacja usługi online
 + umawiam się na 15minut na sesję remote desktop, czyli osoba udostępniająca PC ma pełen wgląd co robię i daje mi tylko prawo do przeglądarki, bez możliwosci przesyłania danych pomiędzy komputerami
