@@ -374,9 +374,12 @@ Ta checklista aktualnie zapisuje sie w cookies i jesli jest dostepny na zdalnym 
 Jedynie template
 A co pomiedzy sie w nim zmiesci nie jest nikomu znane Oprocz dwom stronom umowy
 
+
+
 ## Kto może skorzystać z rozwiązania DocuTemp?
 
-Chociaż prawie każdy zawód może korzystać z korzyści płynących ze szyfrowania w pewnym momencie, istnieją pewne grupy zawodowe, dla których jest to szczególnie istotne. Oto kilka przykładów:
+Chociaż prawie każdy zawód może korzystać z korzyści płynących ze szyfrowania w pewnym momencie, istnieją pewne grupy zawodowe, dla których jest to szczególnie istotne. 
+Oto kilka przykładów:
 
 #### Pracownicy służb zdrowia
 - Lekarze, pielęgniarki i personel administracyjny w placówkach medycznych mają dostęp do poufnych informacji o zdrowiu pacjentów, które zgodnie z prawem muszą być chronione.
@@ -395,6 +398,7 @@ Chociaż prawie każdy zawód może korzystać z korzyści płynących ze szyfro
 
 #### Specjaliści IT i cyberbezpieczeństwa
 - Są odpowiedzialni za ochronę sieci i systemów przed atakami, a także za bezpieczne przechowywanie danych w swoich systemach.
+
 
 
 Grupy niezawodowe, które mogą potrzebować szyfrowania to:
