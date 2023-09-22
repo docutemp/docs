@@ -36,7 +36,7 @@
 Szukając rozwiązania dla wymiany danych z księgowym, znalazłem webowe narzędzia do  szayfrowania plików:
 
 + [Hat.sh - Simple, fast, secure client-side file encryption](https://hat.sh/)
-+ [DocuCrypt | ENCRYPTS & DECRYPTS YOUR PRIVATE FILES](https://www.docu-crypt.com/)
++ [DocuCrypt - ENCRYPTS & DECRYPTS YOUR PRIVATE FILES](https://www.docu-crypt.com/)
 
 Oprócz szyfrowania danych przesyłanych między dwoma komputerami/osobami, chciałem automatyzować zbieranie faktur z emaili i stron www providerów online.
 + nie da się tego zrobić za pomocą dostępu do API, bo nie każdy provider usług online ma takie rozwiązanie
