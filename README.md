@@ -210,4 +210,61 @@ Nikt inny nie ma dostępu, nawet po włamaniu na komputer w trakcie działania p
 
 
 
+## Konkurencja
+
+Lista firm, które mogą stanowić konkurencję dla rozwiązania DocuTemp na poziomie globalnym, ale różnią nie szyfrują danych na dysku lokalnym
+
+Większość firm nie zapewnia szyfrowania danych lokalnie, co oznacza, że dane są szyfrowane dopiero po przesłaniu ich na serwery firmy. m.in.
+
+1. Microsoft Corporation - Microsoft 365
+2. Google LLC - Google Drive
+3. Dropbox, Inc.
+4. Adobe Systems - Adobe Document Cloud
+5. Zoho Corporation - Zoho Docs
+6. Box, Inc.
+
+   
+Warto jednak zauważyć, że DocuTemp różni się od tych zasobów swoim unikalnym podejściem do bezpieczeństwa dokumentów, przechowując je jako zaszyfrowane pliki HTML, zamiast polegania na zewnętrznych serwerach czy platformach.
+
+Większość z nich stosuje tzw. "szyfrowanie po stronie serwera", co oznacza, że nie są szyfrowane na urządzeniu użytkownika przed przesłaniem na serwer. 
+
+Jednak, firmy takie jak Tresorit, Sync.com oraz SpiderOak zapewniają "szyfrowanie po stronie klienta", co oznacza, że dane są szyfrowane na urządzeniu użytkownika zanim zostaną przesłane do chmury.
+
+ShareFile (Citrix) oferuje także możliwość szyfrowania lokalnego, ale ta funkcja jest dostępna tylko w niektórych planach. 
+
+Jednak żadne z tych rozwiązań nie przechowuje danych w formacie HTML, jak to robi DocuTemp.
+
+
+
+## Globalne marki, które zapewniają "szyfrowanie po stronie klienta
+
+Wszystkie powyższe usługi oferują szyfrowanie po stronie klienta, co oznacza, że dane są szyfrowane na urządzeniu użytkownika przed przesłaniem do chmury. 
+
+### Tresorit 
+- Szwajcarska firma specjalizująca się w zabezpieczonym przechowywaniu danych w chmurze, które oferuje 'end-to-end' szyfrowanie.
+
+### SpiderOak 
+- Amerykańska firma oferująca usługi backupu i przechowywania danych w chmurze z 'end-to-end' szyfrowaniem.
+
+### Sync.com 
+- Kanadyjski dostawca usług przechowywania w chmurze, który oferuje 'end-to-end' szyfrowanie.
+
+### Boxcryptor 
+- Niemiecka firma specjalizująca się w zabezpieczeniu danych przechowywanych w popularnych usługach chmury za pomocą 'end-to-end' szyfrowania.
+
+### ProtonMail 
+- Szwajcarski dostawca zabezpieczonej poczty e-mail, której każdy e-mail jest szyfrowany na urządzeniu użytkownika przed wysłaniem.
+
+### NordLocker 
+- Jest to produkt od twórców popularnej usługi VPN, NordVPN, który umożliwia użytkownikom szyfrowanie plików na swoim urządzeniu przed ich udostępnieniem lub przeniesieniem do chmury.
+
+### Signal 
+- Popularna aplikacja do komunikacji, która stosuje 'end-to-end' szyfrowanie, co oznacza, że wszystkie wiadomości są szyfrowane na urządzeniu użytkownika przed wysłaniem. 
+
+### Cryptomator 
+- Wentylator open source, który oferuje szyfrowanie po stronie klienta dla danych przechowywanych w chmurze. 
+
+
+
+
 
