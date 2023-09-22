@@ -62,7 +62,7 @@ Dodatkowo, klient może zastanawiać się, czy firma spełnia wymogi prawne doty
 
 - **Kamil**: Rozumiem. Ale to chyba nie jest aż tak ważne? W końcu, ile razy słyszałeś o firmach, które miały realne problemy z tym?
 
-- **Anna**: Oj, naprawdę nie chciałbyś do tego dojść., Kamil. Wiesz, prywatność traci się tylko raz. Jeśli dojdzie do wycieku danych, szczególnie tych wrażliwych, konsekwencje mogą być katastrofalne. Strata reputacji, kary finansowe, utrata zaufania klientów.
+- **Anna**: Oj, nie chciałbyś tego wiedzieć... prywatność traci się tylko raz. Jeśli dojdzie do wycieku danych, szczególnie tych wrażliwych, konsekwencje mogą być katastrofalne. Strata reputacji, kary finansowe, utrata zaufania klientów.
 
 - **Kamil**: Skoro tak mówisz, to brzmi poważnie. Zaczynam rozumieć, dlaczego tak podkreślasz to bezpieczeństwo.
 
