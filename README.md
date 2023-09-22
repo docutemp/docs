@@ -556,5 +556,4 @@ Po wdrożeniu DocuTemp, nie kończymy pracy. Nadal monitorujemy i aktualizujemy 
 According to news publication Reuters, Tesla has been accused of failing to protect employee, customer and business partner data after 100GB of confidential information was leaked by an employee. The DPA has said that it is “looking into” the data breach.
 
 + [Elon Musk Reveals How Tesla Caught Employee Who Leaked Confidential Data](https://www.ndtv.com/world-news/elon-musk-explains-how-tesla-caught-employee-leaking-data-3433802)
-
 Elon Musk shared that they identified the accused by sending emails that looked identical to all its employees but each email was coded with different spaces. "That is quite an interesting story. We sent what appeared to be identical emails to all, but each was actually coded with either one or two spaces between sentences, forming a binary signature that identified the leaker,” Mr Musk wrote.
