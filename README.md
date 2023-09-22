@@ -371,6 +371,46 @@ Ta checklista aktualnie zapisuje sie w cookies i jesli jest dostepny na zdalnym 
 Jedynie template
 A co pomiedzy sie w nim zmiesci nie jest nikomu znane Oprocz dwom stronom umowy
 
+## Kto może skorzystać z rozwiązania DocuTemp?
+
+Chociaż prawie każdy zawód może korzystać z korzyści płynących ze szyfrowania w pewnym momencie, istnieją pewne grupy zawodowe, dla których jest to szczególnie istotne. Oto kilka przykładów:
+
+#### Pracownicy służb zdrowia: Lekarze, pielęgniarki i personel administracyjny w placówkach medycznych mają dostęp do poufnych informacji o zdrowiu pacjentów, które zgodnie z prawem muszą być chronione.
+
+#### Adwokaci i prawnicy: 
+Muszą chronić prywatność swoich klientów i informacje związane z przypadkiem, a często zdarza się, że posiadają bardzo wrażliwe informacje.
+
+#### Pracownicy rządowi i urzędnicy: 
+Właściwe szyfrowanie jest niezbędne dla tych, którzy mają dostęp do ważnych i czasem bardzo wrażliwych informacji rządowych.
+
+#### Pracownicy przemysłu finansowego: 
+Bankierzy, doradcy finansowi, księgowi - wszyscy oni codziennie pracują z poufnymi danymi finansowymi, które należy chronić.
+
+#### Dziennikarze: 
+Dziennikarze często pracują z poufnymi źródłami i muszą chronić tożsamość tych źródeł oraz informacje, które od nich otrzymują.
+
+#### Specjaliści IT i cyberbezpieczeństwa: 
+Są odpowiedzialni za ochronę sieci i systemów przed atakami, a także za bezpieczne przechowywanie danych w swoich systemach.
+
+
+Grupy niezawodowe, które mogą potrzebować szyfrowania to:
+
+#### Organizacje pozarządowe (NGO): 
+Często pracują z wrażliwymi danymi, które mogą być na celowniku władz lub hakerów. 
+
+#### Aktywiści i Lobbyści: 
+Osoby te często są narażone na śledzenie i inwigilację, dlatego powinni chronić swoją komunikację i dokumenty. 
+
+#### Grupy przestępcze: 
+Chociaż ich działalność jest nielegalna, często korzystają z szyfrowania, aby ukryć swoje działania.
+
+#### Osoby z zaburzeniami anankastycznymi (obsesyjno-kompulsyjnymi): 
+Mogą odczuwać silną potrzebę utrzymania swoich danych w absolutnym porządku i bezpieczeństwie, co może prowadzić do decyzji o szyfrowaniu.
+
+
+
+
+
 # Use Case
 
 ## Kontrakt
