@@ -386,7 +386,7 @@ Oto kilka przykładów:
 
 Ochrona prywatności pacjentów wymaga szyfrowania danych, bo lepiej zapobiegać niż leczyć.
 
-#### Adwokaci i prawnicy
+#### Adwokaci, prawnicy, ubezpieczyciele
 - Muszą chronić prywatność swoich klientów i informacje związane z przypadkiem, a często zdarza się, że posiadają bardzo wrażliwe informacje.
 
 Poufne informacje o klientach powinny pozostać zaszyfrowane, tak na wszelki wypadek...
