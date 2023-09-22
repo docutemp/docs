@@ -271,6 +271,24 @@ Wszystkie powyższe usługi oferują szyfrowanie po stronie klienta, co oznacza,
 ## Roadmap
 
 ```mermaid
+gantt
+  title Roadmap DocuTemp
+  
+  section Rok 1
+  Dzisiaj: 2021-01-01, 30d
+  Analiza potrzeb: 2021-02-01, 30d
+  Definiowanie funkcji: 2021-03-01, 30d
+  Prace rozwojowe: 2021-04-01, 60d
+  Testy i sprawdzanie jakości: 2021-06-01, 30d
+  Wdrożenie DocuTemp: 2021-07-01, 30d
+  Monitorowanie i rozwój: 2021-08-01, 60d
+  
+  section Rok 2
+  Udoskonalenie funkcjonalności i obszaru zastosowań DocuTemp: 2022-01-01, 90d
+  Rozszerzenie oferty o dodatkowe narzędzia szyfrujące: 2022-04-01, 90d
+```
+
+```mermaid
 graph TD
     A[Dzisiaj] --> B[Analiza potrzeb]
     B --> C[Definiowanie funkcji]
