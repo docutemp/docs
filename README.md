@@ -285,7 +285,7 @@ gantt
   
   section Rok 2
   Udoskonalenie funkcjonalności i obszaru zastosowań DocuTemp: 2024-5-01, 90d
-  Rozszerzenie oferty o dodatkowe narzędzia szyfrujące: 2022-08-01, 90d
+  Rozszerzenie oferty o dodatkowe narzędzia szyfrujące: 2024-08-01, 90d
 ```
 
 ```mermaid
