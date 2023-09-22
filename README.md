@@ -31,7 +31,7 @@ Alternative to?
 
 ### O czym myślą klienci?
 
-+ co może pomyśleć klient firmy, która nie szyfruje danych księgowych i osobowych?
+*co może pomyśleć klient firmy, która nie szyfruje danych księgowych i osobowych?*
 
 Osoba (klient) takiej firmy może czuć się nieswojo, gdy dowiaduje się, że firma nie szyfruje danych księgowych czy osobowych. Może to wywołać obawy o to, jak bezpieczne są ich informacje i czy nie zostaną skradzione lub wykorzystane w niewłaściwy sposób. Brak szyfrowania danych może wskazywać, że firma nie traktuje bezpieczeństwa informacji swoich klientów na tyle poważnie, na ile powinna. Klient może zatem zastanowić się, czy powinien dalej korzystać z usług takiej firmy.
 
@@ -43,7 +43,7 @@ Dodatkowo, klient może zastanawiać się, czy firma spełnia wymogi prawne doty
 
 ### Prywatność traci się tylko raz
 
-+ dialog dwóch osób, w której jedna opowiada drugiej, jak istotne jest bezpieczeństwo
+*dialog dwóch osób, w której jedna opowiada drugiej, jak istotne jest bezpieczeństwo*
 
 
 - **Anna**: Cześć Kamil, przy okazji ostatniej rozmowy, chciałam ci mówić o ochronie danych w naszej firmie.
