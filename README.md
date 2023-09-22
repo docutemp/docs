@@ -209,6 +209,40 @@ a dokument pozostaje u nadającego i odbierającego.
 Nikt inny nie ma dostępu, nawet po włamaniu na komputer w trakcie działania przeglądarki plik pozostaje zaszyfrowany, a hasło do otworzenia posiadają dwie strony kontraktu
 
 
+## FAQ
+
+
+Wykorzystanie DocuTemp, jak każdego innego programu, może wiązać się z pewnymi obawami oraz potencjalnymi pytaniami. 
+Poniżej wymieniamy kilka z nich:
+
+#### Bezpieczeństwo danych: 
+DocuTemp przechowuje dane w pliku HTML, czy dane z dokumentów są widoczne po otwarciu okna edycji dokumentu?
+Jednak o zawartość plików jest przechowywana wenątrz pliku typu mulipart, więc nie ma tam otwartych danych a jedynie zaszyfrowany tekst.
+Nasze szyfrowanie jest na najwyższym poziomie i używamy zaawansowanych technologii do zapewnienia prywatności Twojego pliku.
+
+#### Kompatybilność z przeglądarką: 
+Czy mogą pojawić się problemy z otwarzaniem lub edytowaniem pliku HTML w różnych przeglądarkach?
+DocuTemp jest jednak zaprojektowany tak, aby być kompatybilnym z większością popularnych przeglądarek.
+
+#### Zarządzanie dużą ilością dokumentów: 
+Jaki jest limit przechowywania danych?
+DocuTemp został jednak zaprojektowany tak, aby umożliwić efektywne zarządzanie nawet ogromną liczbą dokumentów, limity są po stronie technicznej urządzenia, przeglądrki, dysku.
+
+#### Trudności techniczne: 
+Co mam zrobić w przypadku problemów, gdzie otrzymam pomoc?
+Niektórzy użytkownicy mogą doświadczyć problemów technicznych, takich jak niemożność zapisania zmian czy błąd w szyfrowaniu. 
+Nasz zespół wsparcia technicznego jest jednak dostępny, aby pomóc rozwiązać te problemy.
+
+#### Problemy z dostępem do Internetu: 
+DocuTemp wymaga nie wymaga dostępu do Internetu podczas działania, jedynie aktualizacji.
+
+
+#### Potrzeba ciągłych aktualizacji: 
+Aby utrzymać najwyższy poziom bezpieczeństwa i funkcjonalności, DocuTemp wymaga regularnych aktualizacji. 
+Co nie przeszkadza w sytuacji gdy klienci mają publiczny dostęp do plików na stronie www lub prywatnie poprzez załączniki wysyałane zaraz po aktualizacji do każdego użytkownika.
+
+
+
 
 ## Konkurencja
 
