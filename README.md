@@ -387,7 +387,7 @@ Ochrona prywatności pacjentów wymaga systemem szyfrowania danych, bo lepiej za
 
 #### Adwokaci i prawnicy
 - Muszą chronić prywatność swoich klientów i informacje związane z przypadkiem, a często zdarza się, że posiadają bardzo wrażliwe informacje.
-Poufne informacje o aktualnych i przyszłych klientach muszą pozostać bezwzględnie zaszyfrowane, na wszelki wypadek...
+Poufne informacje o klientach muszą pozostać bezwzględnie zaszyfrowane, na wszelki wypadek...
 
 #### Pracownicy rządowi i urzędnicy
 - Właściwe szyfrowanie jest niezbędne dla tych, którzy mają dostęp do ważnych i czasem bardzo wrażliwych informacji rządowych.
