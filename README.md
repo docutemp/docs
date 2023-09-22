@@ -289,6 +289,7 @@ Ubezpieczyciele mogą uznać, że takie firmy są mniej narażone na ryzyko zwi�
 
 
 ### Realizacja usługi online
+
 + umawiam się na 15minut na sesję remote desktop, czyli osoba udostępniająca PC ma pełen wgląd co robię i daje mi tylko prawo do przeglądarki, bez możliwosci przesyłania danych pomiędzy komputerami
 + manualnie łącze się do komputera sekretarki, na którym są przechowywane hasła dostępowe (password manager) do listy serwisów, które powinny zaiwerać np. dokumenty, faktury
 + zbieram te dane do jednego pliku html lokalnie i zabezpieczam hasłem, po czym wysyłam poprzez email (edykowany do faktur), lub zostawiam na dysku komputera
@@ -303,11 +304,13 @@ bo hasło i tak wpisuje osoba dla której to robię, ja tylko występuje w formi
 
 
 ### Outsourcing
+
 Tego typu zadani może robić osoba z firmy, ale dzięki szyfrowaniu może być prowadzony bezpieczny outsource sekretarki i księgowego w takiej klikającej formie jeśli mowa o zasobach wrażliwych
 zyskujesz szybką realizację takich monotonnych zadań bez ryzyka, że ktoś będzie miał dostęp do danych wrażliwych
 
 
 ### Checklist'a
+
 monitorowanie wykonania zadania w czasie rzeczywistym
 W dokumencie HTML znajduje się checklista z linkami i jeśli wszystko zostanie powyklikane, pobrane i załadowane do postaci zaszyfrowanej to trafia do ksiegowego lub w inne miejsce też w takiej formie w dowolny sposób.
 
@@ -375,36 +378,37 @@ A co pomiedzy sie w nim zmiesci nie jest nikomu znane Oprocz dwom stronom umowy
 
 Chociaż prawie każdy zawód może korzystać z korzyści płynących ze szyfrowania w pewnym momencie, istnieją pewne grupy zawodowe, dla których jest to szczególnie istotne. Oto kilka przykładów:
 
-#### Pracownicy służb zdrowia: Lekarze, pielęgniarki i personel administracyjny w placówkach medycznych mają dostęp do poufnych informacji o zdrowiu pacjentów, które zgodnie z prawem muszą być chronione.
+#### Pracownicy służb zdrowia
+Lekarze, pielęgniarki i personel administracyjny w placówkach medycznych mają dostęp do poufnych informacji o zdrowiu pacjentów, które zgodnie z prawem muszą być chronione.
 
-#### Adwokaci i prawnicy: 
+#### Adwokaci i prawnicy
 Muszą chronić prywatność swoich klientów i informacje związane z przypadkiem, a często zdarza się, że posiadają bardzo wrażliwe informacje.
 
-#### Pracownicy rządowi i urzędnicy: 
+#### Pracownicy rządowi i urzędnicy
 Właściwe szyfrowanie jest niezbędne dla tych, którzy mają dostęp do ważnych i czasem bardzo wrażliwych informacji rządowych.
 
-#### Pracownicy przemysłu finansowego: 
+#### Pracownicy przemysłu finansowego
 Bankierzy, doradcy finansowi, księgowi - wszyscy oni codziennie pracują z poufnymi danymi finansowymi, które należy chronić.
 
-#### Dziennikarze: 
+#### Dziennikarze
 Dziennikarze często pracują z poufnymi źródłami i muszą chronić tożsamość tych źródeł oraz informacje, które od nich otrzymują.
 
-#### Specjaliści IT i cyberbezpieczeństwa: 
+#### Specjaliści IT i cyberbezpieczeństwa
 Są odpowiedzialni za ochronę sieci i systemów przed atakami, a także za bezpieczne przechowywanie danych w swoich systemach.
 
 
 Grupy niezawodowe, które mogą potrzebować szyfrowania to:
 
-#### Organizacje pozarządowe (NGO): 
+#### Organizacje pozarządowe (NGO)
 Często pracują z wrażliwymi danymi, które mogą być na celowniku władz lub hakerów. 
 
-#### Aktywiści i Lobbyści: 
+#### Aktywiści i Lobbyści
 Osoby te często są narażone na śledzenie i inwigilację, dlatego powinni chronić swoją komunikację i dokumenty. 
 
-#### Grupy przestępcze: 
+#### Grupy przestępcze
 Chociaż ich działalność jest nielegalna, często korzystają z szyfrowania, aby ukryć swoje działania.
 
-#### Osoby z zaburzeniami anankastycznymi (obsesyjno-kompulsyjnymi): 
+#### Osoby z zaburzeniami anankastycznymi (obsesyjno-kompulsyjnymi)
 Mogą odczuwać silną potrzebę utrzymania swoich danych w absolutnym porządku i bezpieczeństwie, co może prowadzić do decyzji o szyfrowaniu.
 
 
