@@ -96,6 +96,27 @@ Oprócz szyfrowania danych przesyłanych między dwoma komputerami/osobami, chci
 dlatego trzeba to zrobić ręcznie ...
 + i jak to zrobić nie znając haseł do tych providerów?
 
+## Przykładowe zastosowania 
+
+### Udostępnianie ekranu: 
+Podczas spotkań online lub prezentacji często udostępniamy swój ekran. W przypadku, gdy niezamknięty komunikator z dokumentem lub wiadomością jest widoczny, treści te mogą zostać ujawnione innym uczestnikom spotkania.
+
+### Wspólne korzystanie z komputera: 
+Jeżeli współpracownicy lub inne osoby mają dostęp do naszego komputera, mogą zobaczyć otwarte dokumenty lub wiadomości.
+
+### Niezabezpieczony komputer: 
+Komputer, który pozostawimy niezabezpieczony i nienadzorowany, może umożliwić niepowołanym osobom dostęp do naszych dokumentów i wiadomości.
+
+### Inwigilacja: 
+Są osoby lub firmy, które specjalizują się w inwigilacji i kradzieży danych. Upewnij się, że twój system jest chroniony przed takim działaniem.
+
+Konsekwencje prawne mogą obejmować kary naruszenia prywatności, naruszenia praw autorskich, jeśli dokumenty są chronione prawem autorskim, a także ewentualne procesy sądowe ze strony osób, których prywatność została naruszona.
+
+Konsekwencje biznesowe mogą obejmować utratę zaufania klientów, straty finansowe z powodu kradzieży ważnych informacji biznesowych, utratę konkurencyjności, jeśli wrażliwe informacje dotyczące strategii biznesowej lub produktu są ujawnione, a także negatywne konsekwencje dla reputacji firmy.
+
+
+
+
 ### Realizacja usługi online
 + umawiam się na 15minut na sesję remote desktop, czyli osoba udostępniająca PC ma pełen wgląd co robię i daje mi tylko prawo do przeglądarki, bez możliwosci przesyłania danych pomiędzy komputerami
 + manualnie łącze się do komputera sekretarki, na którym są przechowywane hasła dostępowe (password manager) do listy serwisów, które powinny zaiwerać np. dokumenty, faktury
