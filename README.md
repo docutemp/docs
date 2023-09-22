@@ -1,7 +1,7 @@
 # docs.docutemp.com
 
 
-Chcielibyśmy zaproponować Państwu nasze innowacyjne rozwiązanie – DocuTemp. To narzędzie opracowane z myślą o ochronie prywatności i bezpieczeństwa działa na zasadzie szyfrowania i przechowywania dokumentów projektu w jednym dokumencie html. DocuTemp jest niezwykle pomocnym narzędziem do wymiany wszelkiego rodzaju danych w formie zaszyfrowanej oraz do realizacji usług w sposób asynchroniczny.
+DocuTemp to narzędzie opracowane z myślą o ochronie prywatności i bezpieczeństwa działa na zasadzie szyfrowania i przechowywania dokumentów projektu w jednym dokumencie html. DocuTemp jest niezwykle pomocnym narzędziem do wymiany wszelkiego rodzaju danych w formie zaszyfrowanej oraz do realizacji usług w sposób asynchroniczny.
 
 ### Możliwości DocuTemp:
 
