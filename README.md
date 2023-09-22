@@ -642,3 +642,22 @@ Elon Musk shared that they identified the accused by sending emails that looked 
 
 
 
+## keywords
+
+One Time Safe
+One Time Locker
+One Time wallet
+locker less
+One Time Locker
+Single Use Locker
+Single Use Safe.
+One Use Storage
+Single Use Vault
+
+Disposable cabinet
+Disposable safe
+Disposable Locker.
+Disposable storage
+Disposable Vault
+
+
