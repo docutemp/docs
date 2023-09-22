@@ -20,9 +20,10 @@ DocuTemp to przede wszystkim bezpieczeństwo - wszystko odbywa się po stronie p
 
 W DocuTemp zapewniamy pełne bezpieczeństwo wymiany danych, archiwizacji dokumentów czy realizacji usług. Podejmujemy wszelkie działania, aby unikać ryzyka wycieku informacji - ograniczamy ryzyko do minimum, dzięki czemu można skupić się wyłącznie na realizacji swoich celów biznesowych.
 
-Za sprawą DocuTemp można realizować prace wymagające dostępu do wrażliwych danych w pełni zdalnie, bez obaw o wyciek danych, kompromitację, kary (RODO).
+### Zastosowanie:
 
-Spośród wielu potencjalnych użyczeń naszego narzędzia, od bezpiecznej pracy zdalnej po delegowanie zadań monotematycznych czy wymianę dokumentów, DocuTemp to klucz do skutecznego, szyfrowanego i bezpiecznego zarządzania dokumentami w Państwa firmie.
+Za sprawą DocuTemp można realizować prace wymagające dostępu do wrażliwych danych w pełni zdalnie, bez obaw o wyciek danych, kompromitację, kary (RODO).
+Od bezpiecznej pracy zdalnej po delegowanie zadań monotematycznych czy wymianę dokumentów, DocuTemp to klucz do skutecznego, szyfrowanego i bezpiecznego zarządzania dokumentami w Państwa firmie.
 
 
 ## Oferta
