@@ -284,7 +284,7 @@ gantt
   Monitorowanie i rozwój: 2024-05-01, 60d
   
   section Rok 2
-  Udoskonalenie funkcjonalności i obszaru zastosowań DocuTemp: 2024-5-01, 90d
+  Udoskonalenie funkcjonalności i obszaru zastosowań DocuTemp: 2024-05-01, 90d
   Rozszerzenie oferty o dodatkowe narzędzia szyfrujące: 2024-08-01, 90d
 ```
 
