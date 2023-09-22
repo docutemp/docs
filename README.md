@@ -383,37 +383,46 @@ Oto kilka przykładów:
 
 #### Pracownicy służb zdrowia
 - Lekarze, pielęgniarki i personel administracyjny w placówkach medycznych mają dostęp do poufnych informacji o zdrowiu pacjentów, które zgodnie z prawem muszą być chronione.
+Ochrona prywatności pacjentów wymaga systemem szyfrowania danych, bo lepiej zapobiegać niż leczyć.
 
 #### Adwokaci i prawnicy
 - Muszą chronić prywatność swoich klientów i informacje związane z przypadkiem, a często zdarza się, że posiadają bardzo wrażliwe informacje.
+Poufne informacje o aktualnych i przyszłych klientach muszą pozostać bezwzględnie zaszyfrowane, na wszelki wypadek...
 
 #### Pracownicy rządowi i urzędnicy
 - Właściwe szyfrowanie jest niezbędne dla tych, którzy mają dostęp do ważnych i czasem bardzo wrażliwych informacji rządowych.
+Bezpieczeństwo informacji państwowych to kwestia własnego interesu, w czasie inwigilacji służb lepiej spać spokojnie.
 
 #### Pracownicy przemysłu finansowego
 - Bankierzy, doradcy finansowi, księgowi - wszyscy oni codziennie pracują z poufnymi danymi finansowymi, które należy chronić.
+Twoje dane finansowe i swoich klientów są bezcenne - upewnij się, że są szyfrowane jak w banku!
 
 #### Dziennikarze
 - Dziennikarze często pracują z poufnymi źródłami i muszą chronić tożsamość tych źródeł oraz informacje, które od nich otrzymują.
+Dziennikarstwo wymaga ochrony źródeł, poufnych danych i zachowania anonimowości informatorów, lepiej trzymać pliki na kłódkę!
 
 #### Specjaliści IT i cyberbezpieczeństwa
 - Są odpowiedzialni za ochronę sieci i systemów przed atakami, a także za bezpieczne przechowywanie danych w swoich systemach.
-
+Wiemy, ile na ciebie spoczywa odpowiedzialności, szyfrowanie danych pozwoli przetrwać bez objawowo wirusy, ataki ransomware, dataleaks, ...
 
 
 Grupy niezawodowe, które mogą potrzebować szyfrowania to:
 
 #### Organizacje pozarządowe (NGO)
 - Często pracują z wrażliwymi danymi, które mogą być na celowniku władz lub hakerów. 
+Działaj bezpiecznie - szfyrowanie zabezpieczy Twoją działalność a tym samym środki wpływające od darczyńców
 
 #### Aktywiści i Lobbyści
 - Osoby te często są narażone na śledzenie i inwigilację, dlatego powinni chronić swoją komunikację i dokumenty. 
+Twoja walka wymaga dyskrecji, zwłaszcza gdy zleceniodawcy woleliby pozostać anonimowi...
 
 #### Grupy przestępcze
-- Chociaż ich działalność jest nielegalna, często korzystają z szyfrowania, aby ukryć swoje działania.
+- często korzystają z szyfrowania, aby ukryć swoje działania.
+Chociaż nie popieramy nielegalnej działalności, rozumiemy, że prywatność do koresponencji to prawo każdego, bez wyjątku - szyfrujemy tajemnice, bezwględnie!
 
 #### Osoby z zaburzeniami anankastycznymi (obsesyjno-kompulsyjnymi)
 - Mogą odczuwać silną potrzebę utrzymania swoich danych w absolutnym porządku i bezpieczeństwie, co może prowadzić do decyzji o szyfrowaniu.
+Jeśli bezpieczeństwo danych jest Twoją obsesją, mamy dla Ciebie rozwiązanie - system szyfrowania, na którym możesz polegać, obsesyjnie...
 
 
 
@@ -598,10 +607,15 @@ Po wdrożeniu DocuTemp, nie kończymy pracy. Nadal monitorujemy i aktualizujemy 
 
 
 
-### Ciekawe sposoby
+### Ciekawe informacje prasowe
 
 + [Elon Musk’s SSN allegedly leaked in data breach](https://www.cshub.com/attacks/news/elon-musks-social-security-number-allegedly-leaked-in-tesla-data-breach)
 According to news publication Reuters, Tesla has been accused of failing to protect employee, customer and business partner data after 100GB of confidential information was leaked by an employee. The DPA has said that it is “looking into” the data breach.
 
 + [Elon Musk Reveals How Tesla Caught Employee Who Leaked Confidential Data](https://www.ndtv.com/world-news/elon-musk-explains-how-tesla-caught-employee-leaking-data-3433802)
 Elon Musk shared that they identified the accused by sending emails that looked identical to all its employees but each email was coded with different spaces. "That is quite an interesting story. We sent what appeared to be identical emails to all, but each was actually coded with either one or two spaces between sentences, forming a binary signature that identified the leaker,” Mr Musk wrote.
+
+
+
+
+
