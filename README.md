@@ -106,6 +106,7 @@ Od bezpiecznej pracy zdalnej po delegowanie zadań monotematycznych czy wymianę
 
 
 ### Cel:
+
 + do wymiany danych w formie zaszyfrowanej
 + do realizacja usług w sposób asynchroniczny
 
@@ -144,6 +145,28 @@ Oprócz szyfrowania danych przesyłanych między dwoma komputerami/osobami, chci
 
 dlatego trzeba to zrobić ręcznie ...
 + i jak to zrobić nie znając haseł do tych providerów?
+
+
+## Usługi płatne, 10PLN/msc/użytkownik
+
+
+### Contract Status - veridock.com
+
+Sprawdzanie statusu umowy, nazdorowanie checklist
+
+
+### One time safe
+
+jednorazowy sejf
+
++ Możliwość przechowywania zaszyfrowanego pliku w jednorazowym sejfie, to znaczy, że można zaszyfrowany dokument upload-ować aby druga osoba po podaniu hasła mogła go pobrać
+
+Skrytka w tym momencie zostaje usunięta z serwera, a dokument pozostaje u nadającego i odbierającego.
+Nikt inny nie ma dostępu, nawet po włamaniu na komputer w trakcie działania przeglądarki plik pozostaje zaszyfrowany, a hasło do otworzenia posiadają dwie strony kontraktu
+
++ możliwość wyboru lokalizacj, w którrj znajduje się serwer VPN oraz docelowa baza danych
+  
+
 
 ## Przykładowe zastosowania 
 
@@ -370,15 +393,6 @@ Dlatego chce mu wysylac taka paczke do pobrania np z jednorazowego linku
 Wiec jesli bede chcial mu wyslac wiele dokumentow to bedzie mogl sobie to pobrac z linku i otworzyc na kompie a potem pokasować jak juz wprowadzi do systemu
 Bo jak widze z jakich oni korzystaja klientow poczty
 Np. o2, wp,...
-
-
-## Usługa Sejf
-
-+ Możliwość przechowywania zaszyfrowanego pliku w jednorazowym sejfie
-to znaczy, że można zaszyfrowany dokument upload-ować aby druga osoba po podaniu hasła mogła go pobrać
-Skrytka w tym momencie zostaje usunięta z serwera.
-a dokument pozostaje u nadającego i odbierającego.
-Nikt inny nie ma dostępu, nawet po włamaniu na komputer w trakcie działania przeglądarki plik pozostaje zaszyfrowany, a hasło do otworzenia posiadają dwie strony kontraktu
 
 
 ## FAQ
