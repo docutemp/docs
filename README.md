@@ -115,7 +115,12 @@ Konsekwencje prawne mogą obejmować kary naruszenia prywatności, naruszenia pr
 Konsekwencje biznesowe mogą obejmować utratę zaufania klientów, straty finansowe z powodu kradzieży ważnych informacji biznesowych, utratę konkurencyjności, jeśli wrażliwe informacje dotyczące strategii biznesowej lub produktu są ujawnione, a także negatywne konsekwencje dla reputacji firmy.
 
 
-### Zdarzenia
+
+### Zdarzenia wycieku wrażliwych danych
+
+
+#### Wyciek danych z komunikatora: 
+W 2019 roku, Jeff Bezos, CEO Amazona, padł ofiarą ataku hackerskiego na komunikator WhatsApp, który doprowadził do kradzieży jego prywatnych danych. DocuTemp zapewnia kontrolę nad dostępem do dokumentów - można je udostępniać innym użytkownikom tylko w określonym zakresie, co ogranicza ryzyko ich wycieku.
 
 #### Udostępnianie ekranu podczas spotkań online:
 W 2017 roku, Elon Musk, CEO SpaceX i Tesla, w czasie prezentacji w sieci przypadkowo pokazał swoją korespondencję dotyczącą spraw firmowych, po udostępnieniu swojego ekranu. 
@@ -125,8 +130,6 @@ Były dyrektor Yahoo, Scott Thompson, stracił pracę, gdy w jego CV odkryto bł
 
 #### Niezabezpieczony komputer: 
 W 2016 roku, komputer należący do Johna Podesty, szefa kampanii wyborczej Hillary Clinton, został zhakowany, ponieważ został pozostawiony niezabezpieczony. Wynikło z tego ujawnienie wielu poufnych wiadomości e-mail.
-
-### Zapobieganie
 
 #### Wyciek danych klientów PZU
 w 2013 r. doszło do wycieku danych osobowych oraz numerów polis około 5 tysięcy klientów PZU. 
@@ -142,16 +145,52 @@ w roku 2019 dane klientów Orange Polska, a konkretnie daty ważności ich umów
 Cyfrowa administracja dokumentami jaką proponuje DocuTemp mogłaby skutecznie zapobiec takiej sytuacji.
  
 
-#### Wyciek danych z pendrive'a:
+
+
+
+
+### Przykłady zdarzeń zabezpieczanych przez DocuTemp
+
+
+#### Kradzież lub zgubienie urządzenia: 
+
++ Wyciek danych z pendrive'a:
+
 W 2014 roku zawierający dane osobowe 6 milionów obywateli Chile pendrive został zgubiony przez urzędnika rządowego. Informacje obejmowały m.in. nazwiska, numery identyfikacyjne oraz adresy e-mail osób. DocuTemp zabezpiecza dokumenty na każdym nośniku, umożliwia również przechowywanie w jednorazowym schowku online w zaszyfrowanych dokumentów w bezpiecznej infrastrukturze chmurze, co eliminuje potrzebę korzystania z nośników przenośnych, takich jak pendrivy, które mogą zostać zgubione lub skradzione.
 
-#### Wyciek danych z komunikatora WhatsApp: 
-W 2019 roku, Jeff Bezos, CEO Amazona, padł ofiarą ataku hackerskiego na komunikator WhatsApp, który doprowadził do kradzieży jego prywatnych danych. DocuTemp zapewnia kontrolę nad dostępem do dokumentów - można je udostępniać innym użytkownikom tylko w określonym zakresie, co ogranicza ryzyko ich wycieku.
+Rozwiązanie:
 
-#### Wyciek danych z klienta poczty e-mail: 
+Pracownicy często pracują zdalnie lub na wyjazdach. Jeśli laptop lub telefon pracownika zawierający ważne dokumenty firmy zostanie skradziony lub zgubiony, mogą z tego wyniknąć poważne konsekwencje. DocuTemp pozwala przechowywać dokumenty w chmurze, co oznacza, że nawet jeśli urządzenie zostanie utracone, dane nie zostaną utracone ani nie będą dostępne dla niepowołanych osób.
+
+
+
+#### Błędne udostępnianie dokumentów: 
+
++ Wyciek danych z klienta poczty e-mail
+
 W 2013 roku, Yahoo ujawniło, że dane 3 miliardów użytkowników zostały skradzione w ataku na ich klienta poczty e-mail. DocuTemp zapewnia szyfrowanie danych po stronie klienta, co oznacza że nawet jeśli dane zostaną przechwycone, nie będą czytelne bez klucza.
 
+Rozwiązanie:
+
+Pracownicy często muszą współdzielić dokumenty. Jeśli dokument zostanie przypadkowo przesłany do nieodpowiedniej osoby, może to prowadzić do wycieku informacji. 
+DocuTemp pozwala kontrolować, kto ma dostęp do danego dokumentu, co minimalizuje ryzyko jego niewłaściwego udostępnienia.
+
 Szyfrowanie po stronie klienta DocuTemp oznacza, że dane są szyfrowane na urządzeniu użytkownika, zanim zostaną wysłane do chmury. To ogranicza ryzyko, że dane będą przechwycone i odczytane podczas transmisji. Ponadto, klucz do odszyfrowania danych jest przechowywany tylko na urządzeniu użytkownika, co daje dodatkową warstwę ochrony.
+
+
+
+
+
+#### Brak kopii zapasowych: 
+
+Ataki phishingowe:
+
+Małe firmy często nie mają wystarczających zabezpieczeń przeciwko cyberatakom.
+Pracownicy mogą nieświadomie kliknąć na link w oszukańczym e-mailu, co pozwoli hakerom na dostęp do systemu firmy. 
+
+W małych firmach nie zawsze są tworzone regularne kopie zapasowe danych, co naraża firmę na ryzyko utraty ważnych informacji w wyniku awarii sprzętu czy ataku ransomware.
+DocuTemp oferuje szyfrowanie danych po stronie klienta, co ogranicza ryzyko, że dane będą przechwycone i odczytane przez niepowołane osoby.
+Usługa jednorazowego Sejfu DocuTemp automatycznie tworzy kopie zapasowe przechowywanych dokumentów, co gwarantuje ich bezpieczeństwo i nie przechowuje danych na zewnętrznym serwerze dłuzej niż to potrzebne, minimalizując ryzyko na kilku poziomach, czasu, formatu i dostępu osób.
 
 
 
