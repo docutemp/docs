@@ -217,7 +217,7 @@ Poniżej wymieniamy kilka z nich:
 
 #### Bezpieczeństwo danych: 
 DocuTemp przechowuje dane w pliku HTML, czy dane z dokumentów są widoczne po otwarciu okna edycji dokumentu?
-Jednak o zawartość plików jest przechowywana wenątrz pliku typu mulipart, więc nie ma tam otwartych danych a jedynie zaszyfrowany tekst.
+Pliki są przechowywane wewnątrz pliku HTML typu mulipart, więc nie ma tam otwartych danych a jedynie zaszyfrowany tekst.
 Nasze szyfrowanie jest na najwyższym poziomie i używamy zaawansowanych technologii do zapewnienia prywatności Twojego pliku.
 
 #### Kompatybilność z przeglądarką: 
