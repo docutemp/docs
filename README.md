@@ -61,7 +61,7 @@ bo hasło i tak wpisuje osoba dla której to robię, ja tylko występuje w formi
 Tego typu zadani może robić osoba z firmy, ale dzięki szyfrowaniu może być prowadzony bezpieczny outsource sekretarki i księgowego w takiej klikającej formie jeśli mowa o zasobach wrażliwych
 zyskujesz szybką realizację takich monotonnych zadań bez ryzyka, że ktoś będzie miał dostęp do danych wrażliwych
 
-### Chceklista
+### Checklist'a
 monitorowanie wykonania zadania w czasie rzeczywistym
 W dokumencie HTML znajduje się checklista z linkami i jeśli wszystko zostanie powyklikane, pobrane i załadowane do postaci zaszyfrowanej to trafia do ksiegowego lub w inne miejsce też w takiej formie w dowolny sposób.
 
