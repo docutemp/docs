@@ -268,3 +268,47 @@ Wszystkie powyższe usługi oferują szyfrowanie po stronie klienta, co oznacza,
 
 
 
+## Roadmap
+
+```mermaid
+graph TD
+    A[Dzisiaj] --> B[Analiza potrzeb]
+    B --> C[Definiowanie funkcji]
+    C --> D[Prace rozwojowe]
+    D --> E[Testy i sprawdzanie jakości]
+    E --> F[Wdrożenie DocuTemp]
+    F --> G[Monitorowanie i rozwój]
+    G --> H[Po 1 roku: Udoskonalenie funkcjonalności i obszaru zastosowań DocuTemp]
+    H --> I[Po 1.5 roku: Rozszerzenie oferty o dodatkowe narzędzia szyfrujące]
+    I --> J[Po 2 lata: Stabilna, zaufana platforma do szyfrowania i przechowywania dokumentów z rozbudowanymi funkcjami i w pełni satysfakcjonująca potrzeby klientów]
+```
+
+Ten diagram pokazuje, jak praca nad DocuTemp rozpoczyna się od analizy potrzeb użytkowników i rozwoju kluczowych funkcji, a następnie przechodzi przez różne etapy testowania, wdrożenia i rozwoju. DocuTemp stanie się stabilną i zaufaną platformą do szyfrowania i przechowywania dokumentów po dwóch latach ciężkiej pracy. 
+
+
+Krok 1: Analiza potrzeb:
+
+Rozpoczynamy od zrozumienia potrzeb naszych użytkowników - firmy, jednostki i innych klientów, które wymagają bezpiecznej wymiany danych. Gromadzimy informacje o tym, jakie są ich oczekiwania i wymagania.
+
+Krok 2: Definiowanie funkcji:
+
+Następnie będziemy definiować i rozwijać funkcje naszej usługi. Pomogą nam w tym informacje zebrane podczas analizy potrzeb. Zdecydujemy, jakie funkcje będą najważniejsze dla naszych klientów.
+
+Krok 3: Prace rozwojowe:
+
+Kiedy mamy już jasno sformułowane funkcje, zaczynamy prace nad tworzeniem DocuTemp. To etap, na którym nasz pomysł zaczyna nabierać kształtów.
+
+Krok 4: Testy i sprawdzanie jakości:
+
+W miarę jak nasza usługa jest rozwijana, przeprowadzamy testy i kontrolujemy jakość. To pozwala nam wykrywać i poprawiać błędy na bieżąco.
+
+Krok 5: Wdrażanie DocuTemp:
+
+Kiedy jesteśmy pewni, że nasz produkt spełnia najwyższe standardy jakości, jest gotowy do wdrożenia. Uruchamiamy DocuTemp i zapraszamy naszych klientów do korzystania z naszej usługi.
+
+Krok 6: Monitorowanie i rozwój:
+
+Po wdrożeniu DocuTemp, nie kończymy pracy. Nadal monitorujemy i aktualizujemy naszą usługę, aby zawsze spełniała oczekiwania naszych klientów i reagowała na zmieniające się warunki rynkowe.
+
+
+
