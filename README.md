@@ -154,7 +154,7 @@ Cyfrowa administracja dokumentami jaką proponuje DocuTemp mogłaby skutecznie z
 
 #### Kradzież lub zgubienie urządzenia: 
 
-+ Wyciek danych z pendrive'a:
++ Wyciek danych z pendrive'a
 
 W 2014 roku zawierający dane osobowe 6 milionów obywateli Chile pendrive został zgubiony przez urzędnika rządowego. Informacje obejmowały m.in. nazwiska, numery identyfikacyjne oraz adresy e-mail osób. DocuTemp zabezpiecza dokumenty na każdym nośniku, umożliwia również przechowywanie w jednorazowym schowku online w zaszyfrowanych dokumentów w bezpiecznej infrastrukturze chmurze, co eliminuje potrzebę korzystania z nośników przenośnych, takich jak pendrivy, które mogą zostać zgubione lub skradzione.
 
@@ -183,10 +183,12 @@ Szyfrowanie po stronie klienta DocuTemp oznacza, że dane są szyfrowane na urz�
 
 #### Brak kopii zapasowych: 
 
-Ataki phishingowe:
++ Ataki phishingowe
 
 Małe firmy często nie mają wystarczających zabezpieczeń przeciwko cyberatakom.
 Pracownicy mogą nieświadomie kliknąć na link w oszukańczym e-mailu, co pozwoli hakerom na dostęp do systemu firmy. 
+
+Rozwiązanie:
 
 W małych firmach nie zawsze są tworzone regularne kopie zapasowe danych, co naraża firmę na ryzyko utraty ważnych informacji w wyniku awarii sprzętu czy ataku ransomware.
 DocuTemp oferuje szyfrowanie danych po stronie klienta, co ogranicza ryzyko, że dane będą przechwycone i odczytane przez niepowołane osoby.
@@ -195,6 +197,19 @@ Usługa jednorazowego Sejfu DocuTemp automatycznie tworzy kopie zapasowe przecho
 
 
 
+### Korzyści dla Waszych klientów
+
+Zdecentralizowane systemy szyfrowania wpływają na postrzeganie firmy przez klientów jako bezpiecznej i odpowiedzialnej. 
+Takie systemy zwiększają zaufanie klientów, ponieważ pokazują, że firma traktuje ochronę ich danych poważnie i zastosowała zaawansowane technologie bezpieczeństwa. 
+
+Dla potencjalnych klientów to może stanowić decydujący czynnik podczas wyboru między różnymi firmami oferującymi porównywalne produkty czy usługi. 
+Klienci są coraz bardziej świadomi ryzyka związanego z bezpieczeństwem danych i oczekują od firm zabezpieczeń na najwyższym poziomie. 
+
+W przypadku konsekwencji prawnych, zastosowanie zdecentralizowanego systemu szyfrowania może pomóc firmie w spełnieniu wymogów rozporządzenia o ochronie danych osobowych (GDPR). 
+To może pomniejszyć ryzyko nałożenia kar wynikających z naruszenia zasad ochrony danych.
+
+W kwestii ubezpieczeń, firmy, które korzystają z tych systemów, mogą często otrzymać korzystniejsze warunki od ubezpieczycieli związane z polisami od odpowiedzialności cywilnej czy polisami cyberbezpieczeństwa. 
+Ubezpieczyciele mogą uznać, że takie firmy są mniej narażone na ryzyko związane z wyciekiem danych, co oznacza niższe składki ubezpieczeniowe.
 
 
 
@@ -214,13 +229,16 @@ z drugiej strony mogę korzystać z sieci i myszki (bo klawiatura nie jest potrz
 
 bo hasło i tak wpisuje osoba dla której to robię, ja tylko występuje w formie BOTa do klikania w odpowiednie linki i zapisywania danych na dysk komputera klienta i na nim upload do dokumentu w którym będą przechowywane te zaszyfrowane już pliki do wysyłki
 
+
 ### Outsourcing
 Tego typu zadani może robić osoba z firmy, ale dzięki szyfrowaniu może być prowadzony bezpieczny outsource sekretarki i księgowego w takiej klikającej formie jeśli mowa o zasobach wrażliwych
 zyskujesz szybką realizację takich monotonnych zadań bez ryzyka, że ktoś będzie miał dostęp do danych wrażliwych
 
+
 ### Checklist'a
 monitorowanie wykonania zadania w czasie rzeczywistym
 W dokumencie HTML znajduje się checklista z linkami i jeśli wszystko zostanie powyklikane, pobrane i załadowane do postaci zaszyfrowanej to trafia do ksiegowego lub w inne miejsce też w takiej formie w dowolny sposób.
+
 
 ### Praca grupowa
 
