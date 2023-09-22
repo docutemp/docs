@@ -46,9 +46,9 @@ Dodatkowo, klient może zastanawiać się, czy firma spełnia wymogi prawne doty
 *dialog dwóch osób, w której jedna opowiada drugiej, jak istotne jest bezpieczeństwo*
 
 
-- **Anna**: Cześć Kamil, przy okazji ostatniej rozmowy, chciałam ci mówić o ochronie danych w naszej firmie.
+- **Anna**: Cześć Kamil, przy okazji ostatniej rozmowy, chciałam ci powiedzieć o ochronie danych w naszej firmie.
 
-- **Kamil**: Pewnie, Anna. Słucham.
+- **Kamil**: Pewnie, opowiedź!
 
 - **Anna**: Czy zdajesz sobie sprawę, jak istotne jest bezpieczeństwo danych, zwłaszcza tych wrażliwych czy poufnych, jak informacje o naszych klientach?
 
@@ -60,9 +60,9 @@ Dodatkowo, klient może zastanawiać się, czy firma spełnia wymogi prawne doty
 
 - **Anna**: Oznacza to, że informacje są zamieniane na kod, który można zrozumieć tylko posiadając odpowiedni klucz. Bez tego, dane są bezużyteczne dla kogoś, kto je przechwyci.
 
-- **Kamil**: Rozumiem. Ale to chyba nie jest aż tak ważne? W końcu, ile razy słyszałeś o firmach, które miały realne problemy z tym?
+- **Kamil**: Rozumiem. Ale ile razy słyszałeś o firmach, które miały realne problemy z tym?
 
-- **Anna**: Oj, nie chciałbyś tego wiedzieć... prywatność traci się tylko raz. Jeśli dojdzie do wycieku danych, szczególnie tych wrażliwych, konsekwencje mogą być katastrofalne. Strata reputacji, kary finansowe, utrata zaufania klientów.
+- **Anna**: Oj, nie chciałbyś tego wiedzieć... **prywatność traci się tylko raz**. Jeśli dojdzie do wycieku danych, szczególnie tych wrażliwych, konsekwencje mogą być katastrofalne. Strata reputacji, kary finansowe, utrata zaufania klientów.
 
 - **Kamil**: Skoro tak mówisz, to brzmi poważnie. Zaczynam rozumieć, dlaczego tak podkreślasz to bezpieczeństwo.
 
