@@ -100,6 +100,18 @@ Od bezpiecznej pracy zdalnej po delegowanie zadań monotematycznych czy wymianę
 
 ## Oferta
 
+Hasło: 'Szyfrowany Projekt', 'Szyfrowany Projekt', 'Szyfrowane Portfolio', 'Szyfrowany portfel danych'
+Motto: 'Twoje Dane, Twoja Kontrola'
+Wizja: 'Tworzenie bezpiecznego, skutecznego i wydajnego narzędzia komunikacji umożliwiającego gwarantowane przechowywanie i szyfrowanie informacji w jednym pliku. '
+Strategia: 'Inwestowanie w innowacje technologiczne i ciągłe doskonalenie naszej platformy, aby zapewnić naszym klientom najwyższy poziom ochrony ich wrażliwych danych.'
+Misja: 'Wzmacnianie firm i osób prywatnych poprzez dostarczanie wysoce bezpiecznego i wydajnego narzędzia do przechowywania i szyfrowania ich dokumentów projektowych, promowanie prywatności danych i zmniejszanie zależności od centralnych serwerów lub zewnętrznych aplikacji do przechowywania i szyfrowania danych.'
+
+Catchphrase: 'Encrypted Portfolio', 'encrypted pocket', 'encrypted files', 'encrypted folder', 'Encrypted data wallet'
+Motto: 'Your Data, Your Control'
+Vision: 'Creating a secure, effective, and efficient communication tool that guarantees secure storage and encryption of information in a one file.'
+Strategy: 'Investing in technological innovation and continually improving our platform to provide our customers with the highest level of protection for their sensitive data.'
+Mission: 'To empower businesses and individuals with a highly secure and efficient tool for storing and encrypting their project documents, promoting data privacy and reducing the reliance on central servers or external applications for data storage and encryption.'
+
 ### Rozwiązanie:
 
 + szyfrowanie i przechowywanie dokumentów projektu w jednym dokumencie html
