@@ -32,6 +32,50 @@
 + możliwość załączenia i uruchomienia w komunikatorze do przeglądu lub edycji w prywatnym oknie
 
 
+## Historia powstania
+Szukając rozwiązania dla wymiany danych z księgowym, znalazłem webowe narzędzia do  szayfrowania plików:
+
++ [Hat.sh - Simple, fast, secure client-side file encryption](https://hat.sh/)
++ [DocuCrypt | ENCRYPTS & DECRYPTS YOUR PRIVATE FILES](https://www.docu-crypt.com/)
+
+Oprócz szyfrowania danych przesyłanych między dwoma komputerami/osobami, chciałem automatyzować zbieranie faktur z emaili i stron www providerów online.
++ nie da się tego zrobić za pomocą dostępu do API, bo nie każdy provider usług online ma takie rozwiązanie
+
+dlatego trzeba to zrobić ręcznie ...
++ i jak to zrobić nie znając haseł do tych providerów?
+
+### Realizacja usługi online
++ umawiam się na 15minut na sesję remote desktop, czyli osoba udostępniająca PC ma pełen wgląd co robię i daje mi tylko prawo do przeglądarki, bez możliwosci przesyłania danych pomiędzy komputerami
++ manualnie łącze się do komputera sekretarki, na którym są przechowywane hasła dostępowe (password manager) do listy serwisów, które powinny zaiwerać np. dokumenty, faktury
++ zbieram te dane do jednego pliku html lokalnie i zabezpieczam hasłem, po czym wysyłam poprzez email (edykowany do faktur), lub zostawiam na dysku komputera
+
+tak wygląda to dziś, w przyszłości można to w pełni zautomatyzować
+sensem tego rozwiązania jest makysmalne ograniczenie ryzyka przy pracach wymagających dostępu do wrażliwych danych, aby dziś oferować usługę automatyzacji, bez potrzeby pytania o hasła
+
+to tylko przykład jednego z zadań, które wymaga wejścia na czyiś komputer w sposób bezpieczniejszy, tzn bez prawa do używania dysku i tylko jednej aplikacji - przeglądarki www z już zapisanymi hasłami, więc ja mogę używać np. Firefox z zapisanymi hasłami i nie będę w stanie podejrzeć tych danych, bo są zabezpieczane password master
+z drugiej strony mogę korzystać z sieci i myszki (bo klawiatura nie jest potrzebna)
+
+bo hasło i tak wpisuje osoba dla której to robię, ja tylko występuje w formie BOTa do klikania w odpowiednie linki i zapisywania danych na dysk komputera klienta i na nim upload do dokumentu w którym będą przechowywane te zaszyfrowane już pliki do wysyłki
+
+### Outsourcing
+Tego typu zadani może robić osoba z firmy, ale dzięki szyfrowaniu może być prowadzony bezpieczny outsource sekretarki i księgowego w takiej klikającej formie jeśli mowa o zasobach wrażliwych
+zyskujesz szybką realizację takich monotonnych zadań bez ryzyka, że ktoś będzie miał dostęp do danych wrażliwych
+
+### Chceklista
+monitorowanie wykonania zadania w czasie rzeczywistym
+W dokumencie HTML znajduje się checklista z linkami i jeśli wszystko zostanie powyklikane, pobrane i załadowane do postaci zaszyfrowanej to trafia do ksiegowego lub w inne miejsce też w takiej formie w dowolny sposób.
+
+### Praca grupowa
+
+Aktualnie są dwie strony kontraktu, ale mozna to poszerzyc do 3-4 i wowczas kazdy bedzie odpowiedzialny za swoja checkliste
+takie rozwiązanie otwiera mozliwości realizacji customizowanych usług, ktróe można monitorować, bo to czy kliknąłeś link i uploadowałeś go krok po kroku można sprawdzić
+bo pozostaną metadane i ta checklista wbudowana w ten dokument moze byc wysyalana na serwer, aby podejrzec stan jesli ktoś z zewnątrz chciałby wiedzieć, np wlasciceil firmy, czy dokumenty zostaly pobrane i wyslane, bo potem ten dokument moze otworzyc księgowy i potwierdzić ze odebrał
+
+
+### Usprawnienia
+do tego celu można też udostępnić specjalny komputer w firmie, w ramach zwiększania bezpieczeństwa i go wpinać jak jest potrzebny
+można poszerzyć zakres usług i nawet podpinać synchronizację z księgowymi i być partnerem wielu księgowych
+
 
 
 ## Bezpieczna wymiana dokumentów
