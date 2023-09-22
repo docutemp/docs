@@ -10,7 +10,7 @@
 
   
 ### Zastosowanie:
-+ Wymiana danych z księgowym
++ Wymiana danych z księgowym, faktur, raportów, danych medycznych, pracowników
 + Podpisywanie realizacja umów
 + Archiwizajca danych, np. przenoszenie między PC i USB danych w formie zaszyfrowanej
 
