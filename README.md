@@ -11,8 +11,9 @@
   
 ### Zastosowanie:
 + Wymiana danych z księgowym, faktur, raportów, danych medycznych, pracowników
-+ Podpisywanie realizacja umów
++ Podpisywanie i monitorowanie realizacji umów asyncrhoczninie (i syncrhonicznie na serwerze)
 + Archiwizajca danych, np. przenoszenie między PC i USB danych w formie zaszyfrowanej
++ mozliwosc korzystania z mniej bezpiecznych kanalow komunikacji wysyłając dane wrażliwe w postaci zaszyfrowanej
 
   
 ### Korzyści
@@ -29,7 +30,7 @@
 + aktywne elementy i szyfrowanie obsługiwane po stronie przeglądarki w języku JavaScript
 + możliwość synchronizacji z zewnętrznymi i lokalnymi usługami na serwerze, komputerze użytkownik, np. w celu aktualizacji statusu kontraktu
 + możliwość załączenia i uruchomienia w komunikatorze do przeglądu lub edycji w prywatnym oknie
-+ mozliwosc korzystania z mniej bezpiecznych kanalow komunikacji do celow zawierania umów i rozliczania,
+
 
 
 
