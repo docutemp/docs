@@ -7,7 +7,7 @@ Do czego służy?
 + szyfruje i przechowuje dokumenty projektu w jednym pliku html.
 
 Dla kogo?
-+ firm i osób, które potrzebują bezpiecznie wymieniać wrażliwe informacje.
++ firm i osób, które potrzebują bezpiecznie wymieniać wrażliwe informacje przez popularne komunikatory.
 
 Alternatywa?
 + dla tradycyjnych metod polegających na korzystaniu z centralnych serwerów lub zewnętrznych aplikacji do przechowywania danych i szyfrowania.
