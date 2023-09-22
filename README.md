@@ -1,7 +1,30 @@
 # docs.docutemp.com
 
 
-DocuTemp to narzędzie opracowane z myślą o ochronie prywatności i bezpieczeństwa działa na zasadzie szyfrowania i przechowywania dokumentów projektu w jednym dokumencie html. DocuTemp jest niezwykle pomocnym narzędziem do wymiany wszelkiego rodzaju danych w formie zaszyfrowanej oraz do realizacji usług w sposób asynchroniczny.
+DocuTemp to bezpieczne i wydajne rozwiązanie do szyfrowania i przechowywania dokumentów projektowych w jednym dokumencie HTML, co czyni go idealnym wyborem dla firm wymieniających wrażliwe dane i stanowi silną alternatywę dla polegania na serwerach centralnych lub zewnętrznych aplikacjach do przechowywania i szyfrowania danych.
+
+Do czego służy? 
++ szyfruje i przechowuje dokumenty projektu w jednym pliku html.
+
+Dla kogo?
++ firm i osób, które potrzebują bezpiecznie wymieniać wrażliwe informacje.
+
+Alternatywa?
++ dla tradycyjnych metod polegających na korzystaniu z centralnych serwerów lub zewnętrznych aplikacji do przechowywania danych i szyfrowania.
+
+--- 
+EN
+
+DocuTemp is a secure and efficient solution for encrypting and storing project documents in a single HTML document, making it an perfect choice for businesses that exchange sensitive data and is a strong alternative to relying on central servers or external applications for data storage and encryption.
+
+What it does? 
++ DocuTemp encrypts and stores project documents in a single html file.
+
+Who it's for? 
++ It's designed for businesses and individuals who need to exchange sensitive data securely.
+
+Alternative to?
++ DocuTemp is a compelling alternative to conventional methods that rely on central servers or external applications for data storage and encryption.
 
 ### Możliwości DocuTemp:
 
