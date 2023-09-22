@@ -384,32 +384,32 @@ Oto kilka przykładów:
 #### Pracownicy służb zdrowia
 - Lekarze, pielęgniarki i personel administracyjny w placówkach medycznych mają dostęp do poufnych informacji o zdrowiu pacjentów, które zgodnie z prawem muszą być chronione.
 
-*Ochrona prywatności pacjentów wymaga szyfrowania danych, bo lepiej zapobiegać niż leczyć.*
+*Ochrona **prywatności pacjentów** wymaga szyfrowania danych, bo lepiej zapobiegać niż leczyć.*
 
 #### Adwokaci, prawnicy, ubezpieczyciele
 - Muszą chronić prywatność swoich klientów i informacje związane z przypadkiem, a często zdarza się, że posiadają bardzo wrażliwe informacje.
 
-*Poufne informacje o klientach powinny pozostać zaszyfrowane, tak na wszelki wypadek...*
+*Poufne **informacje o klientach** powinny pozostać zaszyfrowane, tak na wszelki wypadek...*
 
 #### Pracownicy rządowi i urzędnicy
 - Właściwe szyfrowanie jest niezbędne dla tych, którzy mają dostęp do ważnych i czasem bardzo wrażliwych informacji rządowych.
 
-*Bezpieczeństwo informacji państwowych to często ochrona własnego stołka, w czasie inwigilacji służb lepiej spać spokojnie...*
+*Bezpieczeństwo informacji państwowych to często ochrona własnego stołka, w czasie **inwigilacji** służb lepiej spać spokojnie...*
 
 #### Pracownicy przemysłu finansowego
 - Bankierzy, doradcy finansowi, księgowi - wszyscy oni codziennie pracują z poufnymi danymi finansowymi, które należy chronić.
 
-*Dane finansowe klientów są bezcenne - upewnij się, że są szyfrowane jak w banku!*
+* **Dane finansowe** klientów są bezcenne, upewnij się, że są szyfrowane jak w banku!*
 
 #### Dziennikarze
 - Dziennikarze często pracują z poufnymi źródłami i muszą chronić tożsamość tych źródeł oraz informacje, które od nich otrzymują.
 
-*Dziennikarstwo wymaga ochrony źródeł, poufnych danych i zachowania anonimowości informatorów, lepiej trzymać pliki na kłódkę!*
+*Dziennikarstwo wymaga ochrony źródeł, poufnych danych i zachowania **anonimowości informatorów**, lepiej trzymać pliki na kłódkę!*
 
 #### Specjaliści IT i cyberbezpieczeństwa
 - Są odpowiedzialni za ochronę sieci i systemów przed atakami, a także za bezpieczne przechowywanie danych w swoich systemach.
 
-*Szyfrowanie danych pozwoli przetrwać bez objawowo: wirusy, ataki ransomware, wycieki danych dataleaks, ...
+*Szyfrowanie danych pozwoli przetrwać bez objawowo: wirusy, ataki ransomware, **wycieki danych** dataleaks, ...
 
 
 ### Grupy niezawodowe, które mogą potrzebować szyfrowania
@@ -418,22 +418,22 @@ Oto kilka przykładów:
 #### Organizacje pozarządowe (NGO)
 - Często pracują z wrażliwymi danymi, które mogą być na celowniku władz lub hakerów. 
 
-*Działaj bezpiecznie, szfyrowanie zabezpieczy realizowane projekty i wolontariuszy a tym samym środki wpływające od darczyńców*
+*Działaj bezpiecznie, szfyrowanie zabezpiecza realizowane **projekty** i wolontariuszy a tym samym środki wpływające od darczyńców*
 
 #### Aktywiści i Lobbyści
 - Osoby te często są narażone na śledzenie i inwigilację, dlatego powinni chronić swoją komunikację i dokumenty. 
 
-*Twoja walka wymaga dyskrecji, zwłaszcza gdy - zleceniodawcy woleliby pozostać anonimowi...*
+*Twoja walka wymaga dyskrecji, zwłaszcza gdy, zleceniodawcy woleliby pozostać **anonimowi**...*
 
 #### Grupy przestępcze
 - często korzystają z szyfrowania, aby ukryć swoje działania.
 
-*Chociaż nie popieramy nielegalnej działalności, rozumiemy, że prywatność koresponencji to prawo każdego, bez wyjątku - szyfrujemy bezwględnie!*
+*Chociaż nie popieramy nielegalnej działalności, rozumiemy, że **prywatność koresponencji** to prawo każdego, bez wyjątku!*
 
 #### Osoby z zaburzeniami anankastycznymi (obsesyjno-kompulsyjnymi)
 - Mogą odczuwać silną potrzebę utrzymania swoich danych w absolutnym porządku i bezpieczeństwie, co może prowadzić do decyzji o szyfrowaniu.
 
-*Jeśli bezpieczeństwo danych jest Twoją obsesją, mamy dla Ciebie rozwiązanie - system szyfrowania, na którym możesz obsesyjnie polegać...*
+*Jeśli **bezpieczeństwo danych** jest Twoją obsesją, mamy dla Ciebie rozwiązanie, na którym możesz obsesyjnie polegać...*
 
 
 
