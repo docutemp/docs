@@ -115,6 +115,32 @@ Konsekwencje prawne mogą obejmować kary naruszenia prywatności, naruszenia pr
 Konsekwencje biznesowe mogą obejmować utratę zaufania klientów, straty finansowe z powodu kradzieży ważnych informacji biznesowych, utratę konkurencyjności, jeśli wrażliwe informacje dotyczące strategii biznesowej lub produktu są ujawnione, a także negatywne konsekwencje dla reputacji firmy.
 
 
+### Zdarzenia
+
+#### Udostępnianie ekranu podczas spotkań online:
+W 2017 roku, Elon Musk, CEO SpaceX i Tesla, w czasie prezentacji w sieci przypadkowo pokazał swoją korespondencję dotyczącą spraw firmowych, po udostępnieniu swojego ekranu. 
+
+#### Wspólne korzystanie z komputera:
+Były dyrektor Yahoo, Scott Thompson, stracił pracę, gdy w jego CV odkryto błędy. Okazało się, że zostały one dodane przez współpracownika, który miał dostęp do jego komputera.
+
+#### Niezabezpieczony komputer: 
+W 2016 roku, komputer należący do Johna Podesty, szefa kampanii wyborczej Hillary Clinton, został zhakowany, ponieważ został pozostawiony niezabezpieczony. Wynikło z tego ujawnienie wielu poufnych wiadomości e-mail.
+
+### Zapobieganie
+
+#### Wyciek danych klientów PZU
+w 2013 r. doszło do wycieku danych osobowych oraz numerów polis około 5 tysięcy klientów PZU. 
+Wszystko z powodu błędu pracownika, który przypadkowo wysłał e-maile z załącznikami zawierającymi te dane do nieuprawnionych osób. 
+Korzystanie z DocuTemp, pozwalającego kontrolować dostęp do danych i uprawnienia do ich udostępniania, mogłoby zapobiec takiej sytuacji.
+
+#### Wyciek danych klientów Play
+W 2017 r. około 4 miliony klientów sieci komórkowej Play padło ofiarą wycieku danych. Wyciek obejmował m.in. numery PESEL, numery telefonów oraz adresy e-mail. 
+DocuTemp, poprzez umożliwienie bezpiecznego przechowywania i udostępniania dokumentów, mógłby zapobiec takiej sytuacji.
+
+#### Wyciek danych klientów sieci Orange
+w roku 2019 dane klientów Orange Polska, a konkretnie daty ważności ich umów na telewizję i internet, popadły w niepowołane ręce. 
+Cyfrowa administracja dokumentami jaką proponuje DocuTemp mogłaby skutecznie zapobiec takiej sytuacji.
+ 
 
 
 ### Realizacja usługi online
