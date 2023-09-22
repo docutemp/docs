@@ -1,26 +1,37 @@
 # docs.docutemp.com
 
 ### Rozwiązanie:
-+ szyfrowany dokument w standardzie html bez centralnego serwera przechowującego dane i hasła
++ szyfrowanie i przechowywanie dokumentów projektu w jednym dokumencie html
+
 
 ### Cel:
 + do wymiany danych w formie zaszyfrowanej
-+ do realizacja usług w sposób asyncrhoniczy, poprzez wymianę danych z dokumentu.
++ do realizacja usług w sposób asynchroniczny
 
-### Specyfikacja:
-+ jeden przenośny dokument jako portfel dla wielu dokumentów
-+ dokument w formacie HTML, dlatego nie wymaga zewnętrznej aplikacji
-+ aktywne elementy i szyfrowanie obsługiwane po stronie przeglądarki w języku JavaScript
-+ możliwość synchronizacji z zewnętrznymi i lokalnymi usługami na serwerze, komputerze użytkownik, np. w celu aktualizacji statusu kontraktu
-+ działa na każdego platformie i przeglądarce
-+ możliwość załączenia i uruchomienia w komunikatorze do przeglądu lub edycji w prywatnym oknie
-+ mozliwosc korzystania z mniej bezpiecznych kanalow komunikacji do celow zawierania umów i rozliczania,
-
+  
 ### Zastosowanie:
 + Wymiana danych z księgowym
 + Podpisywanie realizacja umów
 + Archiwizajca danych, np. przenoszenie między PC i USB danych w formie zaszyfrowanej
+
   
+### Korzyści
++ jeden przenośny dokument jako portfel dla wielu dokumentów
++ bez centralnego serwera przechowującego dane i hasła
++ Kontrola zmian, danych
++ działa na każdego platformie i przeglądarce
++ edycja danych bezpośrednio w przeglądarce internetowej bez zewnętrznej aplikacji
+
+  
+### Specyfikacja:
+
++ dokument w formacie HTML, dlatego nie wymaga zewnętrznej aplikacji
++ aktywne elementy i szyfrowanie obsługiwane po stronie przeglądarki w języku JavaScript
++ możliwość synchronizacji z zewnętrznymi i lokalnymi usługami na serwerze, komputerze użytkownik, np. w celu aktualizacji statusu kontraktu
++ możliwość załączenia i uruchomienia w komunikatorze do przeglądu lub edycji w prywatnym oknie
++ mozliwosc korzystania z mniej bezpiecznych kanalow komunikacji do celow zawierania umów i rozliczania,
+
+
 
 ## Bezpieczna wymiana dokumentów
 
