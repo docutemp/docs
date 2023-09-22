@@ -60,7 +60,7 @@ Dodatkowo, klient może zastanawiać się, czy firma spełnia wymogi prawne doty
 
 - **Anna**: Oznacza to, że informacje są zamieniane na kod, który można zrozumieć tylko posiadając odpowiedni klucz. Bez tego, dane są bezużyteczne dla kogoś, kto je przechwyci.
 
-- **Kamil**: Rozumiem. Ale ile razy słyszałeś o firmach, które miały realne problemy z tym?
+- **Kamil**: Rozumiem. Ale ile razy słyszałeś o firmach, które miały z tym problem?
 
 - **Anna**: Oj, nie chciałbyś tego wiedzieć... **prywatność traci się tylko raz**. Jeśli dojdzie do wycieku danych, szczególnie tych wrażliwych, konsekwencje mogą być katastrofalne. Strata reputacji, kary finansowe, utrata zaufania klientów.
 
